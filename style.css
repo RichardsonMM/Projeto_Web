@@ -1,0 +1,27 @@
+.navbar .navbar-nav .nav-link {
+    color: #fff;
+}
+
+body {
+    background: #409fff;
+    font-family: "Open Sans", sans-serif;
+}
+
+.container .carousel .carousel-inner .carousel-item .img-fluid{
+    padding: 10% 0% 20% 0;
+}
+
+h3 {
+    color: #fff;
+    text-shadow: 2px 2px 2px black;
+}
+
+p {
+    color: #fff;
+    text-shadow: 2px 2px 2px black;
+}
+
+.container .carousel {
+    padding: auto;
+    
+}
